@@ -583,6 +583,16 @@
 	  }
 	},
 	{
+		"url": "http://some.webs.site.com/?em_link=gobbledygook",
+		"referrer": "",
+		"result": {
+			"referrer": {
+				"type": "email",
+				"sender": "vistaprint"
+			}
+		}
+	},
+	{
 	  "url": null,
 	  "referrer": "http://www.opentable.com/carmines-restaurant-dc?scpref=115",
 	  "result": {
