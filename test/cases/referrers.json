@@ -167,6 +167,37 @@
 		}
 	},
 	{
+		"url": null,
+		"referrer": "http://www.reddit.com/r/politics",
+		"result": {
+			"referrer": {
+				"type": "social",
+				"network": "reddit"
+			}
+		}
+	},
+	{
+		"url": null,
+		"referrer": "http://answers.yahoo.com/question/index;_ylt=Ak4Qe.QAA1jmnREPlcnA5hnj1KIX;_ylv=3?qid=20130410163601AA23Uqc",
+		"result": {
+			"referrer": {
+				"type": "social",
+				"network": "yahooanswers"
+			}
+		}
+	},
+	{
+		"url": null,
+		"referrer": "http://en.wikipedia.org/wiki/Battle_of_Tsushima",
+		"result": {
+			"referrer": {
+				"type": "social",
+				"network": "wikipedia"
+			}
+		}
+	},
+	
+	{
 		"url": "http://news.google.com/news/rhttp://www.newyorker.com/online/blogs/sportingscene/2012/08/michael-phelpss-olympic-career.html?mbid=gnep&google_editors_picks=true",
 		"referrer": "http://search.yahoo.com/search;_ylt=A0oG7mtn6oBPWQ0AVZdXNyoA;_ylc=X1MDMjc2NjY3OQRfcgMyBGFvA2FvBGNzcmNwdmlkA2NPOUVKRW9HN3Y1NHUxUFRUMC5SX1ExcVE3cUUwVS5BNm1VQURVTE4EZnIDeWZwLXQtNTA1BGZyMgNzYnRuBG5fZ3BzAzEwBG9yaWdpbgNzcnAEcHFzdHIDaGVsbG8gaG93IGFyZSB5b3UEcXVlcnkDaGVsbG8gaG93IGFyZSB5b3UEc2FvAzE-?p=hello%20how%20are%20you&fr2=sb-top&fr=yfp-t-505&pqstr=hello%20how%20are%20you",
 		"result": {
