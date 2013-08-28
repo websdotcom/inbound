@@ -70,6 +70,16 @@
 		}
 	},
 	{
+		"url": "http://www.hanintel.com/",
+		"referrer": "http://me2day.net/xissy/me",
+		"result": {
+			"referrer": {
+				"type": "social",
+				"network": "me2day"
+			}
+		}
+	},
+	{
 		"url": "",
 		"referrer": "http://search.aol.com/aol/search?s_it=topsearchbox.search&v_t=comsearch51&q=segment.io",
 		"result": {
@@ -132,6 +142,39 @@
 				"type": "search",
 				"engine": "yahoo",
 				"query": "hello how are you"
+			}
+		}
+	},
+	{
+		"url": "http://www.hanintel.com/",
+		"referrer": "http://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=hanintel&x=-595&y=-51",
+		"result": {
+			"referrer": {
+				"type": "search",
+				"engine": "naver",
+				"query": "hanintel"
+			}
+		}
+	},
+	{
+		"url": "http://www.hanintel.com/",
+		"referrer": "http://search.daum.net/search?w=tot&DA=YZRR&t__nil_searchbox=btn&sug=&q=hanintel",
+		"result": {
+			"referrer": {
+				"type": "search",
+				"engine": "daum",
+				"query": "hanintel"
+			}
+		}
+	},
+	{
+		"url": "http://www.hanintel.com/",
+		"referrer": "http://search.nate.com/search/all.html?s=&sc=&afc=&j=&thr=sbma&nq=&q=hanintel",
+		"result": {
+			"referrer": {
+				"type": "search",
+				"engine": "nate",
+				"query": "hanintel"
 			}
 		}
 	},
@@ -457,55 +500,29 @@
 		}
 	},
 	{
-		"url": "http://www.wix.com/html5webbuilder/400?utm_source=google&utm_medium=cpc&utm_campaign=campaign&experiment_id=website^e^19781277423^1t1",
-		"referrer": "http://www.google.com/aclk?sa=l&ai=CsDFiIh9XUarABMvj6QHT0YGIBsfH_88Dv_bU_kn5k94GCAAQASgDUJDJ9Pb9_____wFgya6RiYikgBCgAZv_4_ADyAEBqgQoT9BFkNuIRTPl4hEXKRYEjwVv-qNBF2bW-ACWbWogoTsqdyq5AEvnm4AHzYCcDw&sig=AOD64_2m2H4pZxoNx02zUamBzdK_jJjxtg&ved=0CC4Q0Qw&adurl=http://www.wix.com/html5webbuilder/400%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dcampaign%26experiment_id%3Dwebsite%5Ee%5E19781277423%5E1t1&rct=j&q=website",
+		"url": "http://www.hanintel.com/",
+		"referrer": "http://mail.naver.com/?n=1371247097062&v=f",
 		"result": {
 			"referrer": {
-				"type": "ad",
-				"network": "google",
-				"query": "website"
-			},
-			"campaign": {
-				"source": "google",
-				"medium": "cpc",
-				"campaign": "campaign"
+				"type": "email",
+				"client": "naver",
+				"from": "http://mail.naver.com/?n=1371247097062&v=f",
+				"link": "http://www.hanintel.com/"
 			}
 		}
 	},
 	{
-		"url": "https://www.godaddy.com/hosting/website-builder.aspx?isc=wb1db002&utm_source=MSN&utm_medium=cpc&utm_term=create%20your%20own%20website&utm_content=2042012586&utm_campaign=11438627325&ef_id=tedO1uxdk1gAAAzl:20130330174459:s",
-		"referrer": "http://search.yahoo.com/search;_ylt=AphWIR0PcVHjVBdrcBiSd.SbvZx4?p=website&toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-900",
+		"url": "http://www.hanintel.com/",
+		"referrer": "http://mail2.daum.net/hanmailex/Top.daum",
 		"result": {
 			"referrer": {
-				"type": "ad",
-				"network": "yahoo",
-				"query": "website"
-			},
-			"campaign": { 
-				"campaign": "11438627325",
-				"source": "MSN",
-				"term": "create your own website",
-				"medium": "cpc" 
+				"type": "email",
+				"client": "daum",
+				"from": "http://mail2.daum.net/hanmailex/Top.daum",
+				"link": "http://www.hanintel.com/"
 			}
 		}
 	},
-	{
-		"url": "http://www.godaddy.com/domains/search-dus.aspx?isc=gofab002&utm_source=MSN&utm_medium=cpc&utm_term=buying%20domain%20names&utm_content=1567759293&utm_campaign=11438627038&ef_id=tedO1uxdk1gAAAzl:20130330174553:s",
-		"referrer": "http://www.bing.com/search?q=website&go=&qs=n&form=QBLH&pq=website&sc=8-4&sp=-1&sk=",
-		"result": {
-			"referrer": {
-				"type": "ad",
-				"network": "bing",
-				"query": "website"
-			},
-			"campaign": {
-				"campaign": "11438627038",
-				"source": "MSN",
-				"term": "buying domain names",
-				"medium": "cpc"
-			}
-		}
-	}, 
 	{
 	  "url": null,
 	  "referrer": "http://www.bing.com/local/details.aspx?lid=YN165x196022063&q=restaurant&qt=yp&tid=0ef5d82049cf4d7da1e308dbc82bc30e&FORM=LLSV",
@@ -592,7 +609,7 @@
 	      "location": "washington d c"
 	    }
 	  }
-	}, 
+	},
 	{
 	  "url": null,
 	  "referrer": "http://redirect.foursquare.com/l/?u=http%3A%2F%2F8407kb.com&sig=Soas7kQCgZw%2BHy1hvno0MVH7hd8%3D&s=venue",
@@ -644,12 +661,45 @@
 		}
 	},
 	{
+		"url": "http://www.wix.com/html5webbuilder/400?utm_source=google&utm_medium=cpc&utm_campaign=campaign&experiment_id=website^e^19781277423^1t1",
+		"referrer": "http://www.google.com/aclk?sa=l&ai=CsDFiIh9XUarABMvj6QHT0YGIBsfH_88Dv_bU_kn5k94GCAAQASgDUJDJ9Pb9_____wFgya6RiYikgBCgAZv_4_ADyAEBqgQoT9BFkNuIRTPl4hEXKRYEjwVv-qNBF2bW-ACWbWogoTsqdyq5AEvnm4AHzYCcDw&sig=AOD64_2m2H4pZxoNx02zUamBzdK_jJjxtg&ved=0CC4Q0Qw&adurl=http://www.wix.com/html5webbuilder/400%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dcampaign%26experiment_id%3Dwebsite%5Ee%5E19781277423%5E1t1&rct=j&q=website",
+		"result": {
+			"referrer": {
+				"type": "ad",
+				"network": "google",
+				"query": "website"
+			},
+			"campaign": {
+				"source": "google",
+				"medium": "cpc",
+				"campaign": "campaign"
+			}
+		}
+	},
+	{
 		"url": null,
 		"referrer": "http://www.youtube.com/watch?v=9gHxtC7YGL0",
 		"result": {
 			"referrer": {
 				"type": "social",
 				"site": "youtube"
+			}
+		}
+	},
+	{
+		"url": "https://www.godaddy.com/hosting/website-builder.aspx?isc=wb1db002&utm_source=MSN&utm_medium=cpc&utm_term=create%20your%20own%20website&utm_content=2042012586&utm_campaign=11438627325&ef_id=tedO1uxdk1gAAAzl:20130330174459:s",
+		"referrer": "http://search.yahoo.com/search;_ylt=AphWIR0PcVHjVBdrcBiSd.SbvZx4?p=website&toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-900",
+		"result": {
+			"referrer": {
+				"type": "ad",
+				"network": "yahoo",
+				"query": "website"
+			},
+			"campaign": {
+				"campaign": "11438627325",
+				"source": "MSN",
+				"term": "create your own website",
+				"medium": "cpc"
 			}
 		}
 	},
@@ -672,6 +722,23 @@
 				"type": "search",
 				"engine": "ask",
 				"query": "web site"
+			}
+		}
+	},
+	{
+		"url": "http://www.godaddy.com/domains/search-dus.aspx?isc=gofab002&utm_source=MSN&utm_medium=cpc&utm_term=buying%20domain%20names&utm_content=1567759293&utm_campaign=11438627038&ef_id=tedO1uxdk1gAAAzl:20130330174553:s",
+		"referrer": "http://www.bing.com/search?q=website&go=&qs=n&form=QBLH&pq=website&sc=8-4&sp=-1&sk=",
+		"result": {
+			"referrer": {
+				"type": "ad",
+				"network": "bing",
+				"query": "website"
+			},
+			"campaign": {
+				"campaign": "11438627038",
+				"source": "MSN",
+				"term": "buying domain names",
+				"medium": "cpc"
 			}
 		}
 	}
