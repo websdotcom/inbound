@@ -741,6 +741,15 @@
 				"medium": "cpc"
 			}
 		}
+	},
+	{
+		"url": null,
+		"referrer": "about:blank",
+		"result": {
+			"referrer": {
+				"type": "direct"
+			}
+		}
 	}
 	
 ]
